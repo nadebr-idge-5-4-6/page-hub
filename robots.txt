@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nadebr-idge-5-4-6.github.io/page-hub/sitemap.xml
